@@ -1,3 +1,4 @@
+### Note: tensorflow==1.15.0 cuda10.0 cudnn=7
 ### PointNet++: *Deep Hierarchical Feature Learning on Point Sets in a Metric Space*
 Created by <a href="http://charlesrqi.com" target="_blank">Charles R. Qi</a>, <a href="http://stanford.edu/~ericyi">Li (Eric) Yi</a>, <a href="http://ai.stanford.edu/~haosu/" target="_blank">Hao Su</a>, <a href="http://geometry.stanford.edu/member/guibas/" target="_blank">Leonidas J. Guibas</a> from Stanford University.
 
